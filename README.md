@@ -1,4 +1,4 @@
-# Simple job application site
+# Simple job application website
 My website to apply for the STEP 
 
 ## Installation
